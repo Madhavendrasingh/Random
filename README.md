@@ -7,7 +7,7 @@
     
 
 
-# Phone Mini',
+# Phone Mini
 
 ## description: 'A good samall phone with a flip cover',
 
